@@ -1,4 +1,4 @@
-# to-do-list-py
+# To-do List
 A simple project where you can write, look and delete your tasks. 
 
 ## Supported languages:
